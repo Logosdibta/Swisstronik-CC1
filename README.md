@@ -1,5 +1,12 @@
 # This Code to complete Swisstronik Challenge on LearnWeb3
-
+My Deploy contract 
+```
+0x21BEFEDF6aa50653fDE558C6ec2a52aB546918d6
+```
+My Deploy Tx Hash
+```
+https://explorer-evm.testnet.swisstronik.com/tx/0x95a98cb00bb9583ddc8684dc1276ceb319ae93231ba14df105964c2ed981dfa6
+```
 1. Install Hardhat
 ```
 npm install --save-dev hardhat
