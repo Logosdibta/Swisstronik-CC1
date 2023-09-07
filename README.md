@@ -40,6 +40,7 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network swisstronik
 ```
 7. Try to interact with your deployer contract
+! Edit your deployed contract and execute this command below !
 ```
 npx hardhat run scripts/setMessage.js --network swisstronik
 ```
